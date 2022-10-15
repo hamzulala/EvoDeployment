@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'EvoDeployment'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_69FC3D6D9ADF4CCCAFEFD886E26EB535 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_91B9F1C92B1A423AAB27CE480A6E6B81 }}
           package: .
